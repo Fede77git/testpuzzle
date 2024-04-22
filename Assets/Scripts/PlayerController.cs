@@ -77,7 +77,7 @@ public class PlayerController : MonoBehaviour
 
     private void Collects()
     {
-        if (cont >= 1)
+        if (cont >= 6)
         {
             
             
